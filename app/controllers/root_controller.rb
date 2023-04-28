@@ -1,4 +1,7 @@
 class RootController < ApplicationController
-  def create
+  def index
+  end
+
+  def email_sent
   end
 end
